@@ -1,0 +1,14 @@
+{
+  "name": "PinayFlix Repo",
+  "version": 1,
+  "extensions": [
+    {
+      "name": "PinayFlix",
+      "pkg": "com.pinayflix",
+      "version": "1.0.0",
+      "lang": "fil",
+      "nsfw": true,
+      "apk": "https://your-username.github.io/aniyomi-repo/extensions/pinayflix-v1.0.0.apk"
+    }
+  ]
+}
